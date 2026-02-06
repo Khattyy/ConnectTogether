@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046814424736",
+    "project_id": "connect-together-dd49f",
+    "storage_bucket": "connect-together-dd49f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046814424736:android:432b56343b46bf8bcb13c5",
+        "android_client_info": {
+          "package_name": "com.example.connect_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mdDUWdS1CwmGvb49n-LO6fC9hT1e3jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
